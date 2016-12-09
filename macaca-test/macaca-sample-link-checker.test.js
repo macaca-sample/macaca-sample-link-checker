@@ -60,8 +60,8 @@ describe('macaca desktop sample', function() {
       });
   });
 
-  after((done) => {
+  after(() => {
     return driver
-      .quit(done);
+      .quit();
   });
 });
