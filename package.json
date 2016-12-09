@@ -12,7 +12,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "ipv4": "^0.0.5",
+    "ipv4": "0.0.4",
     "jshint": "*",
     "macaca-cli": "^1.1.0",
     "macaca-electron": "^1.1.4",
