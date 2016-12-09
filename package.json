@@ -10,13 +10,13 @@
     "type": "git",
     "url": "git://github.com/macaca-sample/macaca-sample-link-checker.git"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "jshint": "*",
     "macaca-cli": "^1.1.0",
     "macaca-electron": "^1.1.4",
     "macaca-utils": "^0.1.9",
+    "mocha": "^3.2.0",
     "pre-commit": "1.1.1",
     "urllib": "^2.18.0",
     "webdriver-client": "~1.0.0",
