@@ -1,0 +1,30 @@
+{
+  "name": "macaca-sample-link-checker",
+  "version": "1.0.0",
+  "description": "Macaca link check sample",
+  "keywords": [
+    "macaca",
+    "sample"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/macaca-sample/macaca-sample-link-checker.git"
+  },
+  "dependencies": {
+    "macaca-utils": "^0.1.8"
+  },
+  "devDependencies": {
+    "jshint": "*",
+    "macaca-cli": "^1.1.0",
+    "macaca-electron": "^1.1.4",
+    "macaca-utils": "^0.1.9",
+    "pre-commit": "1.1.1",
+    "urllib": "^2.18.0",
+    "webdriver-client": "~1.0.0",
+    "xml2map": "^1.0.2"
+  },
+  "pre-commit": [
+    "jshint"
+  ],
+  "license": "MIT"
+}
